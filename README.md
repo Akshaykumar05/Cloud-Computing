@@ -17,3 +17,4 @@
 ### Storage
 * Storage enables you to save data within a data storage services.
 * You can store data such as a video, music, documents, pictures etc.
+* Data saved on a storage device will remain **permanently** untill you delete it
