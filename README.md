@@ -10,3 +10,5 @@
 * Storage
 * Database
 * Networking
+
+**Compute** is the processing power of a macine
