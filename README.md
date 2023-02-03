@@ -11,4 +11,9 @@
 * Database
 * Networking
 
-**Compute** is the processing power of a macine
+### Compute
+* Compute is the processing power of a macine
+
+### Storage
+* Storage enables you to save data within a data storage services.
+* You can store data such as a video, music, documents, pictures etc.
