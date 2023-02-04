@@ -19,3 +19,5 @@
 * You can store data such as a video, music, documents, pictures etc.
 * Data saved on a storage device will remain **permanently** untill you delete it
 * To store data either temporarily or permanently on the cloud, you can use **cloud storage**.
+
+### Database
