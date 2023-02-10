@@ -29,4 +29,7 @@
 ### Networking
 * It is a service that provide **connectivity** among different services.
 
-
+## Cloud Deployment Models
+### Why do we need Cloud Deployment Models?
+* Different organisations have different requirements, they want different levels of control on their cloud infrastructure.
+* Each cloud deployment model offers a different of **management, security**, and **cost**.
