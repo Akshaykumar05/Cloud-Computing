@@ -44,3 +44,8 @@
 * A private cloud is a cloud computing infrastructure that is **specially provisioned** for a comapany.
 * Cloud service are available to an **organisation** and its **users** only.
 * The physical infrastructure can be maintained either **by the organisation** itself or **by third party** who is providing the cloud services.
+
+#### 3.Private Cloud
+* When a cloud computing infrastructure is available for a certain organistaion and to their internal people only, this is called Private Cloud.
+* Private clouds are **more expensive** than public clouds.
+* Private clouds are used by organisations that want to run their mission-critical applications due to **security reasons**.
