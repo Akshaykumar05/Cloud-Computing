@@ -33,3 +33,14 @@
 ### Why do we need Cloud Deployment Models?
 * Different organisations have different requirements, they want different levels of control on their cloud infrastructure.
 * Each cloud deployment model offers a different of **management, security**, and **cost**.
+
+### 3 Types of Cloud Deployment Models
+#### 1.Public Cloud
+* A public cloud is cloud computing infrastructure maintained and operated by a **cloud service provider**
+* **Anyone** can use the public cloud.
+* The cloud service providers are responsible for maintaining the physical infrastructure.
+
+#### 2.Private Cloud
+* A private cloud is a cloud computing infrastructure that is **specially provisioned** for a comapany.
+* Cloud service are available to an **organisation** and its **users** only.
+* The physical infrastructure can be maintained either **by the organisation** itself or **by third party** who is providing the cloud services.
