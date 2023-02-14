@@ -57,9 +57,20 @@
 4. High Availability
 5. Fault Tolerance 
 
-1. **Scalability**
+**Scalability**
 * Scalability is the ability of system to scale, in this case scaling is the process of increasing or decreasing the compute power.
 
-2. **Elasticity**
+**Elasticity**
 * If the system can scale automatically, it is known as**Automatic Scaling**.
 * Elasticity is the ability of the system to scale dynamically.
+
+**Agility**
+* The ability of system to **react quickly**
+
+**High Availability**
+* It is the ability of a system to **operate continuously without failure** for a designated period.
+
+**Fault Tolerance**
+* Tolerance means the ability of a virtual machine to **remain up** and service failures.
+* A fault-tolerance system takes care of any failure, repairs it, and keeps the application running.
+* Fault tolerance refers to the ability of a system (computer, network, storage etc) to **continue operating without interruption** whwn one or more of its componets fail.
