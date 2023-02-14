@@ -49,3 +49,17 @@
 * When a cloud computing infrastructure is available for a certain organistaion and to their internal people only, this is called Private Cloud.
 * Private clouds are **more expensive** than public clouds.
 * Private clouds are used by organisations that want to run their mission-critical applications due to **security reasons**.
+
+## Key Concepts of Cloud
+1. Scalability (vertical and Horizontal scaling)
+2. Elasticity
+3. Agility
+4. High Availability
+5. Fault Tolerance 
+
+1. **Scalability**
+* Scalability is the ability of system to scale, in this case scaling is the process of increasing or decreasing the compute power.
+
+2. **Elasticity**
+* If the system can scale automatically, it is known as**Automatic Scaling**.
+* Elasticity is the ability of the system to scale dynamically.
