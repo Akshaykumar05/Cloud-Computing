@@ -74,3 +74,5 @@
 * Tolerance means the ability of a virtual machine to **remain up** and service failures.
 * A fault-tolerance system takes care of any failure, repairs it, and keeps the application running.
 * Fault tolerance refers to the ability of a system (computer, network, storage etc) to **continue operating without interruption** whwn one or more of its componets fail.
+
+## Benefits of Cloud Computing
