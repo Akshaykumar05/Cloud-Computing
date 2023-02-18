@@ -80,3 +80,5 @@
 **CAPEX**
 * The upfront investment in acquiring the physical space, hardware,and staff to set up a data centre is called CAPEX, capital expense or fixed expense.
 
+**OPEX**
+* The upfront investment in a technical team to keep the data centre running is known as OPEX, Operational expense pr variable expense
