@@ -76,3 +76,7 @@
 * Fault tolerance refers to the ability of a system (computer, network, storage etc) to **continue operating without interruption** whwn one or more of its componets fail.
 
 ## Benefits of Cloud Computing
+### Trade fixed expense for variable expense
+**CAPEX**
+* The upfront investment in acquiring the physical space, hardware,and staff to set up a data centre is called CAPEX, capital expense or fixed expense.
+
