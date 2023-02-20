@@ -83,7 +83,13 @@
 **OPEX**
 * The upfront investment in a technical team to keep the data centre running is known as OPEX, Operational expense pr variable expense
 
-#### Trade fixed expense for variable expense
-* It does not matter whether you use the full capacity  of the data centre or not, youhave already invested the CAPEX amount and will have an ongoing OPEX.
-* With cloud computing, you have only have to **pay monthly** based on the resources you consume.  
+#### Benefits 
+1. Trade fixed expense for variable expense
+* It does not matter whether you use the full capacity  of the data centre or not, you have already invested the CAPEX amount and will have an ongoing OPEX.
+* With cloud computing, you only have to **pay monthly** based on the resources you consume.  
+2. Benefits from massive economies of scale.
+3. Stop guessing capacity.
+4. Increased speed and agility
+5. Stop spending money running and maintaining data centres.
+6. Go global in minutes.
 
