@@ -84,4 +84,5 @@
 * The upfront investment in a technical team to keep the data centre running is known as OPEX, Operational expense pr variable expense
 
 #### Trade fixed expense for variable expense
+* It does not matter whether you use the full capacity  of the data centre or not 
 
