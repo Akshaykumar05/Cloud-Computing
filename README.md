@@ -92,4 +92,5 @@
 4. Increased speed and agility
 5. Stop spending money running and maintaining data centres.
 6. Go global in minutes.
+Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 
