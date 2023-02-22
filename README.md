@@ -94,3 +94,10 @@
 6. Go global in minutes.
 Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 
+### Different Cloud Providers
+#### History of Clloud Providers
+* 2002: Amazon- Amazon Web Services- for itself
+* 2006: Amazon- Amazon Web Services- for general purpose (first time cloud came in general public)
+* 2009: Google, Microsoft Azure, Oracle & HP
+
+
