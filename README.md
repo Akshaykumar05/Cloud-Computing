@@ -100,4 +100,7 @@ Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/s
 * 2006: Amazon- Amazon Web Services- for general purpose (first time cloud came in general public)
 * 2009: Google, Microsoft Azure, Oracle & HP
 
-
+## How to open AWS free account
+* For that user need:
+1. Unique gmail id
+2. Debit/Credit card 
