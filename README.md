@@ -104,3 +104,5 @@ Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/s
 * For that user need:
 1. Unique gmail id
 2. Debit/Credit card 
+
+* Purpose- To get hands on experience 
