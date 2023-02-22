@@ -103,6 +103,9 @@ Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/s
 ## How to open AWS free account
 * For that user need:
 1. Unique gmail id
-2. Debit/Credit card 
+2. Debit/Credit card
+3. Contact number
 
-* Purpose- To get hands on experience 
+* Purpose- To get hands-on experience before using actual services of cloud
+
+
