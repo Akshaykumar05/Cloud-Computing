@@ -108,4 +108,7 @@ Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/s
 
 * Purpose- To get hands-on experience before using actual services of cloud
 
+### What is AWS Free tier?
+The Free Tier lets you try certain AWS services for a definite period without paying anything. 
+
 
