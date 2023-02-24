@@ -111,4 +111,7 @@ Benefits [Details](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/s
 ### What is AWS Free tier?
 The Free Tier lets you try certain AWS services for a definite period without paying anything. 
 
+### What is multifactor Authentication?
+Multi-Factor Authentication is an **aunthentication method** that requires any user to provide at least **two verification types** (known as factors) to get access to an account, resource, or service.
+
 
