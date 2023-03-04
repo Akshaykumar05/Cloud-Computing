@@ -124,4 +124,17 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * AWS CLI (Command Line Interface)
 * AWS SDK (Software Development Kit)
 
+#### Advantage of AWS Management Console
+* Excellent for beginners
+* Easy to interact with AWS services.
+* Provides a step-by-step user interface.
+* Great for performing administrative tasks.
+
+#### Advantage AWS CLI
+* It is a great way to interact with AWS through a computer terminal.
+* Easy to automate tasks and achieve **Infrastructure as a Code**
+
+#### AWS SDK
+* Its stands for **software development kit** or **devkit** in short.
+* It is a set of software tools and programs used by developers to create application.
 
