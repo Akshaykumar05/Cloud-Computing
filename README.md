@@ -119,6 +119,9 @@ Multi-Factor Authentication is an **aunthentication method** that requires any u
 #### AWS Access & Secret Key
 Other than AWS Management Console, CLI and SDK are the two more methods to access AWS.
 
-### AWS CLI
+#### What are the different methods to interect with AWS.
+* AWS Management Console
+* AWS CLI (Command Line Interface)
+* AWS SDK (Software Development Kit)
 
 
