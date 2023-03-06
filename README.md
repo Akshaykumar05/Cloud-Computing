@@ -147,3 +147,5 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 
 ### AWS Management Console
 
+### Using the AWS CLI
+
