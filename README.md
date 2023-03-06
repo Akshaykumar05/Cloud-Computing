@@ -142,3 +142,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * It is a set of software tools and programs used by developers to create application.
 * It supports: C++, Go, Java, Javascript, NET, Node.js, PHP, Python and Ruby language.
 
+#### Advantage of SDK
+* It provides a way to interact with AWS through the **application code**
+
+### AWS Management Console
+
