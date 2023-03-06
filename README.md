@@ -130,6 +130,9 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Provides a step-by-step user interface.
 * Great for performing administrative tasks.
 
+#### AWS CLI
+* The AWS Command Line Interface (CLI) is a unified tool to manage your AWS servises.
+
 #### Advantage AWS CLI
 * It is a great way to interact with AWS through a computer terminal.
 * Easy to automate tasks and achieve **Infrastructure as a Code**
