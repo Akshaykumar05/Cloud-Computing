@@ -149,3 +149,13 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 
 ### Using the AWS CLI
 
+## AWS Region
+* An AWS region is nothing but the geographic locations worldwide where different Data Centres are clustered.
+* Each data centre should have redundant electricity, cooling, heating, networking, and connectivity.
+* All these regions are connected through the AWS backbone network.
+* Some examples: 
+1. Mumbai: ap-south-1
+2. Singapore: ap-southeast-1
+3. Sidney: ap-southeast-2
+4. Cape Town:af-south-1
+
