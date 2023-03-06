@@ -190,5 +190,9 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Edge locations are located at other locations from Regions.
 * AWS Edge Location hosts a special service to deliver the content faster is called **Amazon CloudFront**
 
+### AWS global infrastructure
+* Regions are geographically **isolated location**, where you can access AWS services requires to run your application.
+* Regions contain Availability zones that are **physically separated buildings** with their  own power, heating, cooling, and network.
+* AWS Edge locations run **Amazon CloudFront** to bring the content closer to your customers, no matter where they are in the world. 
 
 
