@@ -159,3 +159,36 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 3. Sidney: ap-southeast-2
 4. Cape Town:af-south-1
 
+* Currently AWS has 26 regions and 84 Availability zones. (check new update)
+
+## Availability Zones
+* An Availability Zone (AZ) is one or more individually separate and distict data centers with redundant power, power, networking, and connectivity in an AWS region.
+* An Availability zone is a group of data centres.
+* An AWS region must have two Availability Zones (AZs).
+
+### Why availability zones are important?
+* Region consists of multiple availability zones.
+* Availabilty zones are located somewhere between 50 to 100 km apart.
+
+### Why do we need so many regions today?
+* Latency
+* Compliance
+* Disaster recovery
+* Global applications
+* Cost
+* Reduced blast radius
+
+#### Caching
+* Catching is the process of storing a copy of data in a temporary or cache storage location so it can be accessed more quickly.
+
+#### Content Delivery Network (CDN)
+* Catching a copy of data in a data centre closer to customers.
+* A Content Delivery Network or CDN, **caches content in proxy servers** that are located closer to end-users than origin servers.
+
+#### What is the difference between Region & Edge Locations
+* Edge locations are smaller data centres that are available across all big cities in the world.
+* Edge locations are located at other locations from Regions.
+* AWS Edge Location hosts a special service to deliver the content faster is called **Amazon CloudFront**
+
+
+
