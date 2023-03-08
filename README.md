@@ -195,4 +195,12 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Regions contain Availability zones that are **physically separated buildings** with their  own power, heating, cooling, and network.
 * AWS Edge locations run **Amazon CloudFront** to bring the content closer to your customers, no matter where they are in the world. 
 
+### What is Identity & Access Management?
+* Identity And Access Management is a **framework** to ensure  that the **right person** in your organisation can access the **right service or resources** as per their job.
+
+#### AWS Identity & Access Management
+* Identity and Access Management or IAM is a service in AWS that makes sure that the right person has access to the right service or resources.
+* IAM provides you the access control of all the AWS servises and resources.
+
+
 
