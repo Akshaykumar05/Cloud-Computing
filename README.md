@@ -201,6 +201,10 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 #### AWS Identity & Access Management
 * Identity and Access Management or IAM is a service in AWS that makes sure that the right person has access to the right service or resources.
 * IAM provides you the access control of all the AWS servises and resources.
+* IAM is an AWS servise that helps an organization to **manage access** of their AWS account and Services for their **organisational people**
+* It provides **Fine-grained** access control across all the AWS services.
 
-
+| Identification                                    | Authentification                                           | Authoriztion                                       |
+| :------------------------------------------------ | :--------------------------------------------------------- | :--------------------------------------------------
+| Identifiaction is the ability to identify a unique user | Authentification is the process of recognizing a user's identity | Authorization is the process of giving someone the permission to access something.
 
