@@ -208,3 +208,15 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 | :------------------------------------------------ | :--------------------------------------------------------- | :--------------------------------------------------
 | Identifiaction is the ability to identify a unique user | Authentification is the process of recognizing a user's identity | Authorization is the process of giving someone the permission to access something.
 
+### IAM User
+* A new IAM user doesn't have any default permission to access your AWS resources.
+* IAM policy defines the permissions that are given yo any user accessing an AWS account.
+* IAM user doesn't have to be an actual persion.
+
+### IAM Group
+* An IAM group is a collection of users and permissions assigned to those users.
+
+### IAM Role
+* An IAM role is like an IAM user attached with an IAM policy that determines what a Role can and cannot do in AWS.
+ 
+
