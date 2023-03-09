@@ -219,4 +219,22 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 ### IAM Role
 * An IAM role is like an IAM user attached with an IAM policy that determines what a Role can and cannot do in AWS.
  
+| Identity-based Policy                                                       | Resource-based Policy                                       
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
+| * Identity-based policies are **attached to an identity** that are IAM user, group, and role. | * These policies are **attached to an AWS resource** such as an Amazon EC2 Instance, S3 bucket, etc.
+| These policies control the **actions an Identity can perform**, on which resources, and under what conditions. | These policies control what **actions aspecified AWS Service or Identity can perform** on other resources and under what conditions.
 
+| AWS Managed Policy                                                          | Customer Managed Policy                                       
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
+| Managed policies are policies that are **created and managed by AWS**. | Customer-managed policies are **creted and managed by the customers**. As a customer, you can create and manage these policies.
+| AWS-managed policies cannot be cganged, and AWS will manage and update the policies, as necessary. | You can attach these policies to multiple entities within your account, making it much easier to scale.
+
+#### Inline Policies
+* Inline Policies are directly attached to the user or group. They maintain a strict one-to-one relationship with the Policy and Identity.
+* Give permission to temporary User or Group.
+
+## Core AWS Services
+1. Storage
+2. Compute
+3. Database
+4. Networking
