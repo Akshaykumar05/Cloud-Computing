@@ -238,3 +238,20 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 2. Compute
 3. Database
 4. Networking 
+
+### Overview of Amazon S3
+#### What is Amazon S3
+* S3 Stands for **Simple Storage Service**.
+* It allows you to **store, retrieve, access, and back up** any amount of data at any time from anywhere over the internet.
+* We can access S3 from AWS Management Console, AWS CLI, and AWS SDK.
+
+#### S3 Bucket Folder
+* Folders are used to group and organise files.
+* S3 doesn't use hierarchy to organize files.
+
+#### S3 Object
+* Object can be your file, document, image, video etc
+* The maximum object size that you can upload to S3 is 5 terabytes.
+* S3 object versioning: keeping multiple variants of a single object.
+* S3 storage class.
+
