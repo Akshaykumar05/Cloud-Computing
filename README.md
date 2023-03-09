@@ -255,3 +255,45 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * S3 object versioning: keeping multiple variants of a single object.
 * S3 storage class.
 
+### S3 Availability, Durability and Data Reolication
+#### Availability
+* It refers to the system uptime.
+* How long the system is operational and able to deliver data upon request.
+
+#### Durability
+* It refers to **long-term data protection**.
+* Data should not be lost or corrupted in the long run.
+
+#### S3 Data Replication
+* S3 is designed to provide 99.99999999% durability and 99.99% availabilty of your objects over a given year.
+
+### Storage Classess
+#### S3 Standard 
+* It is a general-purpose storage class used for **frequently accessed** data.
+* It offers **high durability, availabilty, and performance**.
+* S3 standard is designed for 99.99% availability and 99.99999999% durability.
+* It gives you low latency and high throughout.
+
+#### S3 Standard use case
+* Cloud application
+* Dynamic websites
+* Content distribution
+* Mobile & gaming application
+* Big data analytics
+
+#### S3 Standard Infrequent Access
+* This is a **low-cost** and **high-perforamnce** storage class, ideal for long term storage, backups, and disaster recovery.
+* Our data is also **resilient against** any events of an entire availability zone failure.
+
+#### One Zone-Infrequent Access (S3 One Zone-AI)
+* Data is stored in a **single availability**
+* We still have **low latency** and **high throughout** performance.
+* As the data is stored in one availability zone, it is **20% cheaper** than Infrequent Access.
+
+#### Amazon S3 Intelligent-Tiering (S3 Intelligent-Tiering)
+
+#### Glacier
+* Amazon S3 Glacier is the **cheapest** storage class in S3 and supports **long-term** retention and digital preservation for data accessed only once or twice per year.
+* It is helpful for customers, particularly those in **highly-regulated** industries.
+* It is designed for 11 nine (99.999999999%) durability of objects across multiple Availability Zones. 
+
