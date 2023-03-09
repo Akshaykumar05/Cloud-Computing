@@ -237,4 +237,4 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 1. Storage
 2. Compute
 3. Database
-4. Networking
+4. Networking 
