@@ -297,6 +297,9 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * It is helpful for customers, particularly those in **highly-regulated** industries.
 * It is designed for 11 nine (99.999999999%) durability of objects across multiple Availability Zones.
 
+## Virtual Private Cloud (VPC)
+* It is a virtual network dedicated to your AWS account. It is logically isolated from other virtual network in the AWS Cloud in which you can launch your AWS resources, such as AWS EC2 instance.
+
 ### Subnet
 | Public Subnet                                                               | Private Subnet                                       
 | :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
