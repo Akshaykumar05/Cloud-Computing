@@ -295,5 +295,5 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 #### Glacier
 * Amazon S3 Glacier is the **cheapest** storage class in S3 and supports **long-term** retention and digital preservation for data accessed only once or twice per year.
 * It is helpful for customers, particularly those in **highly-regulated** industries.
-* It is designed for 11 nine (99.999999999%) durability of objects across multiple Availability Zones. 
+* It is designed for 11 nine (99.999999999%) durability of objects across multiple Availability Zones.
 
