@@ -297,3 +297,42 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * It is helpful for customers, particularly those in **highly-regulated** industries.
 * It is designed for 11 nine (99.999999999%) durability of objects across multiple Availability Zones.
 
+### Subnet
+| Public Subnet                                                               | Private Subnet                                       
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
+| It is a Subnet that **interacts** with the **internet** and **can be accessed** through the internet. | It is a subnet that **can not** be reached from the **internet**.
+| We will deploy our **load balancer** or **internet-facing** applications in the Public Subnet. | We can creates the AWS resources which **are only used Inside** the VPC for internal purposes.
+
+### Internet Gateway
+* It is an AWS-managed component that is **attached** to your VPC.
+* It acts **as a gateway** between your VPC and the internet, basically the outside world.
+
+## Security Groups & NACL
+### Why do we need Security Groups & NACL
+* Security groups and NACLs both act as **virtual firewalls**.
+* It controls traffic to and from resources in a VPC with **inbound** and **outbound** rules.
+
+### What is Inbound & Outbound?
+* Inbound or Outbound is the **direction of traffic** between **networks, relative** to the **reference network**.
+* **Inbound** traffic refers to information coming-in to a network.
+* **Outbound** traffic refers to information going-out of the network.
+
+### What is Security Group?
+* A Security group is an **AWS firewall solution** that performs one primary function: to **filter incoming** and **outgoing** traffic from an EC2 instance.
+* It represents instance-level security.
+* Both inbound and outbound rules work independently.
+* We can apply a security group to**one** or **two** instances. Similarly, an instance can also be **associated** with one or more security groups.
+
+### NACL
+* It stands for **Network Access Control List** which **controls the traffic** to or form a **subnet** according to the defined rules.
+* NACLs work at the subnet level of a VPC.
+* WE can apply a NACL to one or more subnets. However, each subnet must be associated with one and only one NACL.
+
+| Security Group                                                              | NACL                                      
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
+| Operates at the instance level | Operates at the subnet level
+| Supports allow rules only | Supports allow rules and deny rules
+| Is stateful | Is stateless
+| Can't delete a default security group | Can't delete default NACL
+
+
