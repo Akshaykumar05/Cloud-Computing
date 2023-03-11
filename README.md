@@ -338,4 +338,33 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 | Is stateful | Is stateless
 | Can't delete a default security group | Can't delete default NACL
 
+## Elastic Compute Cloud (EC2)
+### What is AWS Compute?
+* AWS compute is an **on-demand computing service** for running cloud-based applications.
+* A cloud-based application means an application that can be deployed on a remote server and accessed over the internet.
+* AWS provides computing resources like **instances** (Virtual Machines) and **containers**.
+* AWS also provides **serverless computing** to run applications where you do not require infrastructure setup or configuration.
+
+### What AWS compute is?
+* AWS Compute resources are available **on-demand** and can be created with just a few clicks of a mouse.
+* You will only **pay for the resources you use** and only for as long as you are using them.
+
+### AWS Compute Services: (3 types)
+1. Instance (virtual machines)
+2. Container
+3. Serverless Computing
+
+### What is Virtual Machine?
+* A virtual machine is a **virtual environment** that works like a computer within a computer.
+* The virtual machine is commonly known as **VM**
+* It has a **CPU, memory, disks** to store your files and a **network** to connect to the internet.
+
+### Virtual Machine benefits
+* Cost saving
+* Agility and speed
+* Lowered downtime
+* Scalability
+
+
+
 
