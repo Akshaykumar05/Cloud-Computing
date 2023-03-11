@@ -374,7 +374,31 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Amazon EC2 enables you to **scale up** or **down** the virtual machines to handle unexpected loads.
 * It provides you with **complete control** of your computing resources and lets you run on Amazon's proven computing environment.
 * It supports macOS.
-* 
+
+## Components of Amazon EC2
+### Instance
+* Amazon EC2 is a **virtual machine** in AWS
+* Instance is an **EC2 virtual Machine**
+
+### AMI
+* AMI stands for **Amazon Machine Image**
+* An Amazon Machine Image (AMI) template contains an **operating system** and **additional software** needed to launch AWS EC2 instances.
+
+### Key Pair
+* A key pair consistes of a **public key** and a **private key**. It is a set of security credentials that you use to prove your identity when connecting to an Amazon EC2 instance.
+
+### Security Group
+* Security Groups lets you control **who can access your EC2 instances**.
+* A security group as a **virtual firewall** for your EC2 instances to **control inbound** and **outbound** traffic.
+* Inbound means you can configure who can connect to your EC2 instance from outside, and Outbound means what EC2 instance can connect with.
+
+### EC2 Tags
+* A tag is a **label** of your **AWS resources**.
+* Each tag consists of a **key** and a **value**.
+* You can use tags to organize the resources in your account.
+* It could be environment, cost centre, owners, and each resources, and each tag key can have **only one value**.
+
+
 
 
 
