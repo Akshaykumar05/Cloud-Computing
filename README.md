@@ -365,6 +365,21 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Lowered downtime
 * Scalability
 
+### EC2
+* EC2 stands for Elastic Compute Cloud.
+* Amazon Elastic Compute Cloud (Amazon EC2) provides **scalable computing capacity** in the Amazon Web Services (AWS) Cloud.
+* You can completely **avoid setting up the hardware** to run your application and can develop and deploy applications fatter.
+* It is designed to make web-scale cloud computing **easier for developers**.
+* You can use Amazon EC2 to launch **as many** or **as few** virtual machines as you need.
+* Amazon EC2 enables you to **scale up** or **down** the virtual machines to handle unexpected loads.
+* It provides you with **complete control** of your computing resources and lets you run on Amazon's proven computing environment.
+* It supports macOS.
+* 
+
+
+
+
+
 
 
 
