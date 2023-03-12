@@ -398,8 +398,44 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * You can use tags to organize the resources in your account.
 * It could be environment, cost centre, owners, and each resources, and each tag key can have **only one value**.
 
+### EC2 Instance Naming Conventiom
+* For example: **M6g.2xLarge**
+* this is made up of 4 component.
+1. Instance Family e.i. M
+2. Instance Generation e.i. 6
+3. Additional Capacity e.i. g
+4. Instance size e.i. 2xLarge
+ 
+### What is an EC2 instance type?
+* It is a combination of **CPU, memory, storage** & **networking** capacity.
+* Different combinations help while choosing the appropriate mix for your aoolications.
 
+### What best fit for your application means?
+Amazon EC2 instance types are grouped into families to meet different use cases.
+* General-purpose Instance
+* Compute-optimized Instance
+* Memory-optimized Instance
+* Storage-optimized Instance
 
+1. **General-purposr Instance**
+* It provide a balance of **compute, memory, & networking** resources.
+* It is best suitable for **web servers, catching fleets,& distributed data store** applications.
+* It is a;so suitable for **development, test & demo** environment applications.
+
+2. **Compute-optimized Instance**
+* It is ideal for **compute-bound** applications that benefit from **high performance processors**
+* This is the best for the applications that need **higher compute power**.
+* It is well suited for batch processing, media transcoding, high-performance web servers, high performance computing(HPC), scientific modeling, dedicated gaming servers, ad server engines, machine learning interference, and other computing-intensive applications.
+
+3. **Memory-optimized Instance**
+* Memory-optimized Instances are desighned to deliver fast performance for workload that require **huge memory to process large data sets**.
+* These are used in applications such as **open-source databases, in memory catches,& real-time big data analytics.
+
+4. **Storage-optimized Instance**
+* Storage-optimized Instance aredesigned for workloads that require high, **sequential read & write access** to massive data sets on local storage.
+* It is optimized to deliver tens of thousands of **low-latency, random input-output (I/P)** operations per second (IOPS) to applications.
+* The application has medium-size data sets that need **high compute performance** and **high network thoughout**.
+* These include relational database including MySQL, MariaDB, and PostgeSQL, and NoSQL databases including keyDB, ScyllaDB, and Cassandra.
 
 
 
