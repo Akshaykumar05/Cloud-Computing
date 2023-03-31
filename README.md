@@ -382,6 +382,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Amazon EC2 enables you to **scale up** or **down** the virtual machines to handle unexpected loads.
 * It provides you with **complete control** of your computing resources and lets you run on Amazon's proven computing environment.
 * It supports macOS.
+![image](https://user-images.githubusercontent.com/114390890/229060556-c5d49b6f-a109-4e2f-9132-d7ebbf342f33.png)
+
 
 ## Components of Amazon EC2
 ### Instance
@@ -444,6 +446,34 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 * It is optimized to deliver tens of thousands of **low-latency, random input-output (I/P)** operations per second (IOPS) to applications.
 * The application has medium-size data sets that need **high compute performance** and **high network thoughout**.
 * These include relational database including MySQL, MariaDB, and PostgeSQL, and NoSQL databases including keyDB, ScyllaDB, and Cassandra.
+
+
+## Launch Congiguration & Launch Template
+### Introduction
+* The launch configuration and launch template defines the charecterstics of EC2 instances.
+* AWS introduced launch configuration in 2014.
+* Launch template has extra features and capabilities.
+
+### Launch Configuration
+* It is the instance configuration template in which we defines configurations of our EC2 instance.
+* It consists of AMI, Instance type, Security group, Block device, Key pair, User data and IAM role.
+* Launch configuration are not editable.
+
+### Launch Configuration
+* It is similar to launch configuraion.
+* Launch teplates can also be used to launch EC2 instances or Fleet of the EC2 instances directly from AWS Management console or AWS CLI (Command Line Tool).
+* You can create multiple version of launch templates.
+* We can specify multiple instance types.
+* It has the capability to use both on-demand and spot instances.
+* It also covers T2/T3 unlimited features.
+* It support other features like Placement groups, Capacity reservation, elastic graphics, dedicated host, Volume tagging and Elastic interface.
+
+## Elastic Load Balancer (ELB)
+* This is an AWS load balancer service.
+* It is designed to address the undifferntiated heavy lifting of load balancing.
+* The ELB **routes incoming** application traffic across instance **automatically**.
+
+
 
 
 
