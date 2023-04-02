@@ -473,6 +473,7 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 * It is designed to address the undifferntiated heavy lifting of load balancing.
 * The ELB **routes incoming** application traffic across instance **automatically**.
 
+## 8. Database
 
 
 
