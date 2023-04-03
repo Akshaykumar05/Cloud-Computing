@@ -475,7 +475,10 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 
 ## 8. Database
 
-
+### Elastic Block Storage (EBS)
+* Amazon EBS provides **persistent block storage** for Amazon EC2 instances.
+* Block storage is the technology that **chops data into blocks** and store them in a separate piece.
+* EBS volume is **network-attached drive**.
 
 
 
