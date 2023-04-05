@@ -480,6 +480,7 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 * Block storage is the technology that **chops data into blocks** and store them in a separate piece.
 * EBS volume is **network-attached drive**.
 
+## AWS Security and Manaegement
 
 
 
