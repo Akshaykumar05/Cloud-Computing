@@ -482,7 +482,7 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 
 ## AWS Security and Manaegement
 
-
+## AWS Billing and Pricing
 
 
 
