@@ -484,5 +484,5 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 
 ## AWS Billing and Pricing
 
-
+## Final Project- Deploy a Highly Available WordPress Application
 
