@@ -6,6 +6,13 @@ For becoming a Cloud Engineer, one should have the knowledge of following
 4. Cloud provider: AWS/Azure/GCP
 5. Database
 
+# Project:- Deploy a Highly Availabile Wordpress Application
+## Pre-requisites:
+1. An AWS account with privileges to create IAM roles, AWS VPCs, EC2 instances, and RDS 
+databases.
+2. The next is Access to the AWS console with Administrator permission.
+* I will made this project in the end after covering cloud computing and AWS basics.
+
 # Cloud-Computing
 
 ## What is Cloud Computing?
