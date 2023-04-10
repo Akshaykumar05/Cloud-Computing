@@ -1,4 +1,7 @@
-# Cloud Engineer
+# About
+This repo contain all about Cloud Computing and I tried to document my learnings of "Cloud computing with AWS" training which I did with Inernshala. First I will cover some theory part and at last I will make a project using AWS VPCs, EC2, RDS and database.
+
+## Cloud Engineer
 For becoming a Cloud Engineer, one should have the knowledge of following
 1. Linux
 2. Networking
@@ -6,8 +9,8 @@ For becoming a Cloud Engineer, one should have the knowledge of following
 4. Cloud provider: AWS/Azure/GCP
 5. Database
 
-# Project:- Deploy a Highly Availabile Wordpress Application
-## Pre-requisites:
+## Project:- Deploy a Highly Availabile Wordpress Application
+### Pre-requisites:
 1. An AWS account with privileges to create IAM roles, AWS VPCs, EC2 instances, and RDS 
 databases.
 2. The next is Access to the AWS console with Administrator permission.
@@ -60,11 +63,15 @@ databases.
 * A private cloud is a cloud computing infrastructure that is **specially provisioned** for a comapany.
 * Cloud service are available to an **organisation** and its **users** only.
 * The physical infrastructure can be maintained either **by the organisation** itself or **by third party** who is providing the cloud services.
-
-#### 3.Private Cloud
 * When a cloud computing infrastructure is available for a certain organistaion and to their internal people only, this is called Private Cloud.
 * Private clouds are **more expensive** than public clouds.
 * Private clouds are used by organisations that want to run their mission-critical applications due to **security reasons**.
+
+#### 3. Hybrid Cloud
+* Hybrid means the **combination of two or more**.
+* A hybrid cloud is a cloud computing infrastructure that benefits from both **public** and **private** models and enables organizations to use both.
+* Hybrid cloud combine a public cloud and private cloud to allow a data and applications to be shared betwen them.
+
 
 ## Key Concepts of Cloud
 1. Scalability (vertical and Horizontal scaling)
@@ -187,7 +194,7 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 ### Why availability zones are important?
 * Region consists of multiple availability zones.
 * Availabilty zones are located somewhere between 50 to 100 km apart.
-* 
+
 ![image](https://user-images.githubusercontent.com/114390890/230860638-ddbf9f20-5657-424c-918e-43f01dfba3fa.png)
 
 ### Why do we need so many regions today?
