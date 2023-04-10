@@ -37,7 +37,7 @@ databases.
 
 ### Database
 * When you arrange your data or information in certain rows and columns, it is called **structured data**
-* To store ahuge amount of data, you need a special type of storage device called databases.
+* To store a huge amount of data, you need a special type of storage device called databases.
 * MySQL, Oracle, and SQL Server.
 * To store structured data in cloud, you use a **database**
 
