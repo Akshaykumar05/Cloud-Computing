@@ -1,5 +1,5 @@
 # About
-This repo contain all about Cloud Computing and I tried to document my learnings of "Cloud computing with AWS" training which I did with Inernshala. First I will cover some theory part and at last I will make a project using AWS VPCs, EC2, RDS and database.
+This repo contain all about Cloud Computing and I tried to document my learnings of "Cloud computing with AWS" training which I did with Inernshala. First I will cover some theory part and at last I will make a project using AWS VPCs, EC2, RDS and database. Here is my [certificate](https://trainings.internshala.com/s/v/2915835/150696ef) of this training.
 
 ## Cloud Engineer
 For becoming a Cloud Engineer, one should have the knowledge of following
@@ -105,6 +105,9 @@ databases.
 
 **OPEX**
 * The upfront investment in a technical team to keep the data centre running is known as OPEX, Operational expense pr variable expense
+
+![image](https://user-images.githubusercontent.com/114390890/230884709-c0d03cea-52b9-48b3-b9de-3272b9782f52.png)
+
 
 #### Benefits 
 1. Trade fixed expense for variable expense
@@ -272,6 +275,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * It allows you to **store, retrieve, access, and back up** any amount of data at any time from anywhere over the internet.
 * We can access S3 from AWS Management Console, AWS CLI, and AWS SDK.
 
+![image](https://user-images.githubusercontent.com/114390890/230877137-569a76ea-c82a-49f9-8008-81cc8716d132.png)
+
 #### S3 Bucket Folder
 * Folders are used to group and organise files.
 * S3 doesn't use hierarchy to organize files.
@@ -327,6 +332,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 ## Virtual Private Cloud (VPC)
 * It is a virtual network dedicated to your AWS account. It is logically isolated from other virtual network in the AWS Cloud in which you can launch your AWS resources, such as AWS EC2 instance.
 
+![image](https://user-images.githubusercontent.com/114390890/230878068-1380252e-9b50-49e8-b4fb-912a6e3c7f16.png)
+
 ### Subnet
 | Public Subnet                                                               | Private Subnet                                       
 | :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------
@@ -366,13 +373,14 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 | Can't delete a default security group | Can't delete default NACL
 
 ## Elastic Compute Cloud (EC2)
+
+![image](https://user-images.githubusercontent.com/114390890/230882646-0f99c15e-5f3b-4939-a8e2-13f25e8535e8.png)
+
 ### What is AWS Compute?
 * AWS compute is an **on-demand computing service** for running cloud-based applications.
 * A cloud-based application means an application that can be deployed on a remote server and accessed over the internet.
 * AWS provides computing resources like **instances** (Virtual Machines) and **containers**.
 * AWS also provides **serverless computing** to run applications where you do not require infrastructure setup or configuration.
-
-### What AWS compute is?
 * AWS Compute resources are available **on-demand** and can be created with just a few clicks of a mouse.
 * You will only **pay for the resources you use** and only for as long as you are using them.
 
@@ -401,10 +409,11 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 * Amazon EC2 enables you to **scale up** or **down** the virtual machines to handle unexpected loads.
 * It provides you with **complete control** of your computing resources and lets you run on Amazon's proven computing environment.
 * It supports macOS.
-![image](https://user-images.githubusercontent.com/114390890/229060556-c5d49b6f-a109-4e2f-9132-d7ebbf342f33.png)
-
 
 ## Components of Amazon EC2
+
+![image](https://user-images.githubusercontent.com/114390890/229060556-c5d49b6f-a109-4e2f-9132-d7ebbf342f33.png)
+
 ### Instance
 * Amazon EC2 is a **virtual machine** in AWS
 * Instance is an **EC2 virtual Machine**
@@ -491,6 +500,8 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 * This is an AWS load balancer service.
 * It is designed to address the undifferntiated heavy lifting of load balancing.
 * The ELB **routes incoming** application traffic across instance **automatically**.
+
+![image](https://user-images.githubusercontent.com/114390890/230879751-f0fe480a-1eb1-4f57-81dc-54ab26de5511.png)
 
 ## 8. Database
 
