@@ -14,6 +14,7 @@ databases.
 * I will made this project in the end after covering cloud computing and AWS basics.
 
 # Cloud-Computing
+![image](https://user-images.githubusercontent.com/114390890/230864927-fb4f1d6d-142b-4c0b-b62a-30fc57446c6f.png)
 
 ## What is Cloud Computing?
 * Cloud Computing is an **on-demand delivery** of compute, storage, database, networking, and many more services over the internet.
@@ -175,6 +176,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 4. Cape Town:af-south-1
 
 * Currently AWS has 26 regions and 84 Availability zones. (check new update)
+![image](https://user-images.githubusercontent.com/114390890/230857764-c8118f39-ab81-4cac-bf84-724a54946315.png)
+
 
 ## Availability Zones
 * An Availability Zone (AZ) is one or more individually separate and distict data centers with redundant power, power, networking, and connectivity in an AWS region.
@@ -184,6 +187,8 @@ Other than AWS Management Console, CLI and SDK are the two more methods to acces
 ### Why availability zones are important?
 * Region consists of multiple availability zones.
 * Availabilty zones are located somewhere between 50 to 100 km apart.
+* 
+![image](https://user-images.githubusercontent.com/114390890/230860638-ddbf9f20-5657-424c-918e-43f01dfba3fa.png)
 
 ### Why do we need so many regions today?
 * Latency
