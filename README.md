@@ -31,7 +31,7 @@ databases.
 * Networking
 
 ### Compute
-* Compute is the processing power of a macine
+* Compute is the processing power of a machine.
 
 ### Storage
 * Storage enables you to **save data** within a data storage services.
