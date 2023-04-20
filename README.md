@@ -7,6 +7,9 @@ For becoming a Cloud Engineer, one should have the knowledge of following
 2. Networking
 3. Programming language: Python/Golang
 4. Cloud provider: AWS/Azure/GCP
+5. Docker
+6. IaaC
+7. CI/CD
 5. Database
 
 ## Project:- Deploy a Highly Availabile Wordpress Application
