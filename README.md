@@ -18,7 +18,10 @@ For becoming a Cloud Engineer, one should have the knowledge of following
 * Cloud Solution Architect
 
 
-## Project:- Deploy a Highly Availabile Wordpress Application
+## Project:- 
+* Deploy a Highly Availabile Wordpress Application
+* 
+
 ### Pre-requisites:
 1. An AWS account with privileges to create IAM roles, AWS VPCs, EC2 instances, and RDS 
 databases.
