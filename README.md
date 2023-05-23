@@ -13,7 +13,8 @@ For becoming a Cloud Engineer, one should have the knowledge of following
 5. Database
 
 ## Roles in Cloud domain
-* Cloud Technician 
+* Cloud Support Technician
+* Cloud Trouble shooter
 * Cloud Engineer
 * Cloud Solution Architect
 
