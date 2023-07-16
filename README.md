@@ -67,6 +67,7 @@ databases.
 * Each cloud deployment model offers a different of **management, security**, and **cost**.
 
 ### 3 Types of Cloud Deployment Models
+![](https://kinsta.com/wp-content/uploads/2020/04/cloud-deployment-models.png)
 #### 1.Public Cloud
 * A public cloud is cloud computing infrastructure maintained and operated by a **cloud service provider**
 * **Anyone** can use the public cloud.
