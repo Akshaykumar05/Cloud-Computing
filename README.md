@@ -525,8 +525,10 @@ Amazon EC2 instance types are grouped into families to meet different use cases.
 * Amazon EBS provides **persistent block storage** for Amazon EC2 instances.
 * Block storage is the technology that **chops data into blocks** and store them in a separate piece.
 * EBS volume is **network-attached drive**.
-
-* A private IP address, such as a home or office network, is assigned to a device on a local network and is used to identify the device within that network. On the other hand, a public IP address is assigned to a device directly connected to the internet and is used to identify the device on the internet.
+  
+### Private IP Address Vs Public IP Adress
+* A private IP address, such as a home or office network, is assigned to a device on a local network and is used to identify the device within that network.
+* On the other hand, a public IP address is assigned to a device directly connected to the internet and is used to identify the device on the internet.
 
 ## AWS Security and Manaegement
 
